@@ -1,2 +1,5 @@
 # practica_2_got
-esta es una practica para aprender los conceptos basicos de git y github
+# Practica git y github
+
+[esta es una practica para aprender los conceptos basicos de git y github]
+mas cambios
